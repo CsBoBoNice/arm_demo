@@ -2,7 +2,7 @@
 
 
 
-scp ./build/bin/arm64/* pi@192.168.103.198:/home/pi
+scp ./build/bin/arm64/* pi@192.168.0.210:/home/pi
 
 
 
